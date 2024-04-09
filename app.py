@@ -27,7 +27,7 @@ def predict(image):
     return predicted_class, confidence
 
 def main():
-    st.title("TensorFlow Model Deployment with Streamlit")
+    st.title("Potato Plant Diseases Prediction using TensorFlow by Senso-01")
     st.sidebar.title("Options")
     st.set_option('deprecation.showfileUploaderEncoding', False)
 
